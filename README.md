@@ -36,6 +36,6 @@ We welcome contributions from the community! If you find any issues or want to a
 
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://github.com/Harshitasanapathi004/Meesho-Clone/blob/main/LICENSE).
 
 Thank you for using the Meesho Frontend Clone website! If you have any questions or need further assistance, feel free to
