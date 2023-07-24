@@ -1,41 +1,56 @@
-# Meesho Frontend Clone Website
+# Meesho Clone Website
 
-
-Welcome to the Meesho Frontend Clone website repository! This project is a frontend replica of the popular Meesho platform, designed to provide a similar online reselling experience for users. With this frontend application, users can interact with the backend API to browse products, create their online stores, and resell products to their network of customers.
+This project is an Meesho Clone Website developed as part of the IBM SkillBuild Internship. The website is built using HTML, CSS, JavaScript and ReactJs technologies.
 
 ## Table of Contents
-- [Introduction](#introduction)
+
+- [Project Overview](#project-overview)
 - [Features](#features)
-- [Tech Stack](#tech-stack)
+- [Technologies Used](#technologies-used)
+- [Setup](#setup)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- 
 
-## Introduction
-The Meesho Frontend Clone website is part of a larger project to replicate the popular Meesho platform's user interface and experience. It provides users with an intuitive and responsive frontend that allows them to perform various tasks such as browsing products, managing orders, and creating their online stores.
+## Project Overview
 
+The Meesho Clone is a web application that mimics the popular e-commerce platform Meesho. It provides users with a similar user interface and features, allowing them to browse and purchase products online. The project was developed as part of the IBM SkillBuild Internship, aiming to demonstrate skills in web development using HTML, CSS, JavaScript and ReactJs.
 
 ## Features
-- User Authentication: Users can sign up, log in, and manage their accounts.
-- Product Browsing: Users can browse through various products available for reselling.
-- Store Creation: Users can create their online stores and customize their profiles.
-- Order Management: Users can manage their orders, track shipments, and view order history.
-- Social Sharing: Users can easily share products from their stores on social media platforms.
-- Payment Integration: Secure payment gateways for smooth and secure transactions.
 
+- User authentication: Users can create accounts, log in, and log out.
+- Product catalog: Users can view a list of products available for purchase.
+- Product details: Users can click on a product to view its details, including description, price, and reviews.
+- Add to cart: Users can add products to their shopping cart.
+- Cart management: Users can view and modify the items in their cart.
+- Checkout: Users can proceed to checkout and complete their purchase.
+- Search functionality: Users can search for products by name or category.
 
-## Tech Stack
-The Meesho Frontend Clone website is built using the following technologies:
+## Technologies Used
 
-- HTML, CSS, JavaScript: Building blocks of web development.
-- ReactJS: JavaScript library for building user interfaces.
+The following technologies were used in the development of this project:
+
+- HTML: Used for creating the structure and content of web pages.
+- CSS: Used for styling the website and enhancing its visual appearance.
+- JavaScript and ReactJs: Used for implementing interactive features and functionality.
+- 
+## Setup
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/Harshitasanapathi004/Meesho-Clone.git`
+2. Navigate to the project directory: `cd Messho-Clone`
+3. Open the project in your preferred code editor.
+
+## Usage
+
+To run the project locally, open the `index.html` file in a web browser. The website will load, and you can start exploring its features.
 
 
 ## Contributing
-We welcome contributions from the community! If you find any issues or want to add new features, feel free to submit a pull request. Please ensure you follow the code of conduct and guidelines mentioned in the repository.
 
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/Harshitasanapathi004/Meesho-Clone/blob/main/LICENSE).
 
-Thank you for using the Meesho Frontend Clone website! If you have any questions or need further assistance, feel free to
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for personal or commercial purposes.
